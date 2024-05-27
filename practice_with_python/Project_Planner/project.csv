@@ -1,0 +1,9 @@
+1,Establish end goal,2,
+2,Develop route to achieve identified goals,1,1
+3,Break route down in to smaller actionable learning objectives,2,1
+4,Research educational and support materials for each stage of learning,5,2 3
+5,Compile list of educational and learning resources,2,4
+6,Develop learning structure with objectives,3,5
+7,Discuss with Melissa,7,5
+8,Test and review,4,6 7
+9,Commit to Routine,1,8
